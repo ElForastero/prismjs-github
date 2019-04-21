@@ -1,9 +1,13 @@
 {
   "name": "prismjs-github",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitHub color scheme for prism.js syntax highlighter",
   "main": "README.md",
-  "repository": "git@github.com:ElForastero/prismjs-github.git",
+  "repository":  {
+    "type": "git",
+    "url": "git@github.com:ElForastero/prismjs-github.git"
+  },
   "author": "Eugene Dzhumak <elforastero@ya.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["prismjs", "github", "prism", "theme", "color scheme", "syntax"]
 }
